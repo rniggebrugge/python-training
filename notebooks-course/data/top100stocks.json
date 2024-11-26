@@ -1,0 +1,504 @@
+{
+  "most_traded_stocks": [
+    {
+      "index": 1,
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation"
+    },
+    {
+      "index": 2,
+      "symbol": "TSLA",
+      "name": "Tesla, Inc."
+    },
+    {
+      "index": 3,
+      "symbol": "META",
+      "name": "Meta Platforms, Inc."
+    },
+    {
+      "index": 4,
+      "symbol": "AAPL",
+      "name": "Apple Inc."
+    },
+    {
+      "index": 5,
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation"
+    },
+    {
+      "index": 6,
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc."
+    },
+    {
+      "index": 7,
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc."
+    },
+    {
+      "index": 8,
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc."
+    },
+    {
+      "index": 9,
+      "symbol": "F",
+      "name": "Ford Motor Company"
+    },
+    {
+      "index": 10,
+      "symbol": "INTC",
+      "name": "Intel Corporation"
+    },
+    {
+      "index": 11,
+      "symbol": "MSTR",
+      "name": "MicroStrategy Incorporated"
+    },
+    {
+      "index": 12,
+      "symbol": "TGT",
+      "name": "Target Corporation"
+    },
+    {
+      "index": 13,
+      "symbol": "LCID",
+      "name": "Lucid Group, Inc."
+    },
+    {
+      "index": 14,
+      "symbol": "PLUG",
+      "name": "Plug Power Inc."
+    },
+    {
+      "index": 15,
+      "symbol": "SOFI",
+      "name": "SoFi Technologies, Inc."
+    },
+    {
+      "index": 16,
+      "symbol": "RIOT",
+      "name": "Riot Platforms, Inc."
+    },
+    {
+      "index": 17,
+      "symbol": "AMCR",
+      "name": "Amcor plc"
+    },
+    {
+      "index": 18,
+      "symbol": "BITF",
+      "name": "Bitfarms Ltd."
+    },
+    {
+      "index": 19,
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc."
+    },
+    {
+      "index": 20,
+      "symbol": "GRAB",
+      "name": "Grab Holdings Limited"
+    },
+    {
+      "index": 21,
+      "symbol": "QSI",
+      "name": "Quantum-Si Incorporated"
+    },
+    {
+      "index": 22,
+      "symbol": "NIO",
+      "name": "NIO Inc."
+    },
+    {
+      "index": 23,
+      "symbol": "CLSK",
+      "name": "CleanSpark, Inc."
+    },
+    {
+      "index": 24,
+      "symbol": "ARKK",
+      "name": "ARK Innovation ETF"
+    },
+    {
+      "index": 25,
+      "symbol": "NKLA",
+      "name": "Nikola Corporation"
+    },
+    {
+      "index": 26,
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc."
+    },
+    {
+      "index": 27,
+      "symbol": "CVNA",
+      "name": "Carvana Co."
+    },
+    {
+      "index": 28,
+      "symbol": "BBBYQ",
+      "name": "Bed Bath & Beyond Inc."
+    },
+    {
+      "index": 29,
+      "symbol": "QS",
+      "name": "QuantumScape Corporation"
+    },
+    {
+      "index": 30,
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited"
+    },
+    {
+      "index": 31,
+      "symbol": "PFE",
+      "name": "Pfizer Inc."
+    },
+    {
+      "index": 32,
+      "symbol": "XPEV",
+      "name": "XPeng Inc."
+    },
+    {
+      "index": 33,
+      "symbol": "SPCE",
+      "name": "Virgin Galactic Holdings, Inc."
+    },
+    {
+      "index": 34,
+      "symbol": "SNAP",
+      "name": "Snap Inc."
+    },
+    {
+      "index": 35,
+      "symbol": "BA",
+      "name": "The Boeing Company"
+    },
+    {
+      "index": 36,
+      "symbol": "UBER",
+      "name": "Uber Technologies, Inc."
+    },
+    {
+      "index": 37,
+      "symbol": "AMC",
+      "name": "AMC Entertainment Holdings, Inc."
+    },
+    {
+      "index": 38,
+      "symbol": "GE",
+      "name": "General Electric Company"
+    },
+    {
+      "index": 39,
+      "symbol": "FCEL",
+      "name": "FuelCell Energy, Inc."
+    },
+    {
+      "index": 40,
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc."
+    },
+    {
+      "index": 41,
+      "symbol": "ZM",
+      "name": "Zoom Video Communications, Inc."
+    },
+    {
+      "index": 42,
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc."
+    },
+    {
+      "index": 43,
+      "symbol": "NFLX",
+      "name": "Netflix, Inc."
+    },
+    {
+      "index": 44,
+      "symbol": "BB",
+      "name": "BlackBerry Limited"
+    },
+    {
+      "index": 45,
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc."
+    },
+    {
+      "index": 46,
+      "symbol": "T",
+      "name": "AT&T Inc."
+    },
+    {
+      "index": 47,
+      "symbol": "WMT",
+      "name": "Walmart Inc."
+    },
+    {
+      "index": 48,
+      "symbol": "ROKU",
+      "name": "Roku, Inc."
+    },
+    {
+      "index": 49,
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation"
+    },
+    {
+      "index": 50,
+      "symbol": "DIS",
+      "name": "The Walt Disney Company"
+    },
+    {
+      "index": 51,
+      "symbol": "NVAX",
+      "name": "Novavax, Inc."
+    },
+    {
+      "index": 52,
+      "symbol": "CCL",
+      "name": "Carnival Corporation"
+    },
+    {
+      "index": 53,
+      "symbol": "NCLH",
+      "name": "Norwegian Cruise Line Holdings Ltd."
+    },
+    {
+      "index": 54,
+      "symbol": "UAL",
+      "name": "United Airlines Holdings, Inc."
+    },
+    {
+      "index": 55,
+      "symbol": "LUV",
+      "name": "Southwest Airlines Co."
+    },
+    {
+      "index": 56,
+      "symbol": "MARA",
+      "name": "Marathon Digital Holdings, Inc."
+    },
+    {
+      "index": 57,
+      "symbol": "AAL",
+      "name": "American Airlines Group Inc."
+    },
+    {
+      "index": 58,
+      "symbol": "KOS",
+      "name": "Kosmos Energy Ltd."
+    },
+    {
+      "index": 59,
+      "symbol": "PBR",
+      "name": "Petrobras"
+    },
+    {
+      "index": 60,
+      "symbol": "BP",
+      "name": "BP p.l.c."
+    },
+    {
+      "index": 61,
+      "symbol": "GM",
+      "name": "General Motors Company"
+    },
+    {
+      "index": 62,
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc."
+    },
+    {
+      "index": 63,
+      "symbol": "KO",
+      "name": "The Coca-Cola Company"
+    },
+    {
+      "index": 64,
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation"
+    },
+    {
+      "index": 65,
+      "symbol": "CVX",
+      "name": "Chevron Corporation"
+    },
+    {
+      "index": 66,
+      "symbol": "FSLR",
+      "name": "First Solar, Inc."
+    },
+    {
+      "index": 67,
+      "symbol": "ENPH",
+      "name": "Enphase Energy, Inc."
+    },
+    {
+      "index": 68,
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc."
+    },
+    {
+      "index": 69,
+      "symbol": "V",
+      "name": "Visa Inc."
+    },
+    {
+      "index": 70,
+      "symbol": "MA",
+      "name": "Mastercard Incorporated"
+    },
+    {
+      "index": 71,
+      "symbol": "GS",
+      "name": "The Goldman Sachs Group, Inc."
+    },
+    {
+      "index": 72,
+      "symbol": "MS",
+      "name": "Morgan Stanley"
+    },
+    {
+      "index": 73,
+      "symbol": "BAC",
+      "name": "Bank of America Corporation"
+    },
+    {
+      "index": 74,
+      "symbol": "C",
+      "name": "Citigroup Inc."
+    },
+    {
+      "index": 75,
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company"
+    },
+    {
+      "index": 76,
+      "symbol": "USB",
+      "name": "U.S. Bancorp"
+    },
+    {
+      "index": 77,
+      "symbol": "SCHW",
+      "name": "The Charles Schwab Corporation"
+    },
+    {
+      "index": 78,
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust"
+    },
+    {
+      "index": 79,
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust"
+    },
+    {
+      "index": 80,
+      "symbol": "ARKW",
+      "name": "ARK Next Generation Internet ETF"
+    },
+    {
+      "index": 81,
+      "symbol": "ARKG",
+      "name": "ARK Genomic Revolution ETF"
+    },
+    {
+      "index": 82,
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation"
+    },
+    {
+      "index": 83,
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corporation"
+    },
+    {
+      "index": 84,
+      "symbol": "RTX",
+      "name": "RTX Corporation"
+    },
+    {
+      "index": 85,
+      "symbol": "CAT",
+      "name": "Caterpillar Inc."
+    },
+    {
+      "index": 86,
+      "symbol": "DE",
+      "name": "Deere & Company"
+    },
+    {
+      "index": 87,
+      "symbol": "MMM",
+      "name": "3M Company"
+    },
+    {
+      "index": 88,
+      "symbol": "HON",
+      "name": "Honeywell International Inc."
+    },
+    {
+      "index": 89,
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation"
+    },
+    {
+      "index": 90,
+      "symbol": "INTU",
+      "name": "Intuit Inc."
+    },
+    {
+      "index": 91,
+      "symbol": "ADBE",
+      "name": "Adobe Inc."
+    },
+    {
+      "index": 92,
+      "symbol": "ORCL",
+      "name": "Oracle Corporation"
+    },
+    {
+      "index": 93,
+      "symbol": "CRM",
+      "name": "Salesforce, Inc."
+    },
+    {
+      "index": 94,
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc."
+    },
+    {
+      "index": 95,
+      "symbol": "WDAY",
+      "name": "Workday, Inc."
+    },
+    {
+      "index": 96,
+      "symbol": "TWLO",
+      "name": "Twilio Inc."
+    },
+    {
+      "index": 97,
+      "symbol": "DOCU",
+      "name": "DocuSign, Inc."
+    },
+    {
+      "index": 98,
+      "symbol": "SHOP",
+      "name": "Shopify Inc."
+    },
+    {
+      "index": 99,
+      "symbol": "SQ",
+      "name": "Block, Inc."
+    },
+    {
+      "index": 100,
+      "symbol": "UBS",
+      "name": "UBS Group AG"
+    }
+  ]
+}
