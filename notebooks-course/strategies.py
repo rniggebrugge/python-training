@@ -2,14 +2,15 @@ from backtesting import Strategy
 from sklearn.tree import DecisionTreeRegressor
 
 class Regression(Strategy):
+    print("START")
     limit_buy = 1
     limit_sell = -5
-    
-    n_train = 700
+    model = DecisionTreeRegressor(max_depth=15, random_state=42)
+    n_train = 600
     coef_retrain = 1
     
     def init(self):
-        self.model = DecisionTreeRegressor(max_depth=15, random_state=42)
+        # self.model = 
         self.already_bought = False
         
         X_train = self.data.df.iloc[:self.n_train, :-1]
@@ -19,7 +20,7 @@ class Regression(Strategy):
 
     def next(self):
         explanatory_today = self.data.df.iloc[[-1], :-1]
-        # print(f"predict for {explanatory_today.index} ")
+        print(f"predict for {explanatory_today.index} ")
         forecast_tomorrow = self.model.predict(explanatory_today)[0]
         
         if forecast_tomorrow > self.limit_buy and self.already_bought == False:
@@ -43,7 +44,7 @@ class WalkForwardAnchored(Regression):
         if len(self.data) % self.coef_retrain == 0:
             X_train = self.data.df.iloc[:, :-1]
             y_train = self.data.df.iloc[:, -1]
-            # print(f"Train start {X_train.index[0]}, train end {X_train.index[-1]}")
+            print(f"Train start {X_train.index[0]}, train end {X_train.index[-1]}")
 
             self.model.fit(X_train, y_train)
 
