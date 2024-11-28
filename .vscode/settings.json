@@ -17,7 +17,7 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.colorTheme": "Solarized Dark",
+  "workbench.colorTheme": "Atari XE",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
   // "editor.parameterHints.enabled": false
